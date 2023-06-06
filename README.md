@@ -22,8 +22,8 @@ I'm a Computer Engineering student passionate about Tech and Innovations. I like
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/adarsh-dhangar-334886257)
 
-##Talks about
-Competative examination aftr bachelors like GATE,ISRO,DRDO......
+## Talks about
+- Competative examination after bachelors like GATE,ISRO,DRDO......
 
 
 
