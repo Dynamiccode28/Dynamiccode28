@@ -1,27 +1,25 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Adarsh 👋
 
 ## About Me
-I'm a [your profession or field] passionate about [specific interests or technologies]. I love [describe your passions, hobbies, or goals].
+I'm a Computer Engineering student passionate about Tech and Innovations. I like tostudy diiferent technologies and their real life application.
 
 ## Skills
-- Skill 1
-- Skill 2
-- Skill 3
+- C++
+- Java
+- Computer Networks
+- Operating Systems
+- SQL
+- Data Structures
 
 ## Projects
-- [Project 1](link-to-project-1): Brief description or tagline for the project.
-- [Project 2](link-to-project-2): Brief description or tagline for the project.
+- [chatBot]((https://chatbot0287.netlify.app/)): Rule based chatBot designed using Frontend technologies ie.HTML5,CSS and Javascript.
 
 ## GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dracula)
+![Your Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dynamiccode28&show_icons=true&theme=dracula)
 
 ## Connect with Me
-- [Website](your-website-url)
-- [Twitter](your-twitter-url)
-- [LinkedIn](your-linkedin-url)
+- [LinkedIn]((https://www.linkedin.com/in/adarsh-dhangar-334886257))
 
-## Fun Fact
-Did you know [interesting fact about yourself or your field]?
 
-<!-- Add any other sections or elements as desired -->
+
 
