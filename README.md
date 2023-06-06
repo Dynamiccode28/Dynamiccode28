@@ -1,7 +1,7 @@
 # Hello, I'm Adarsh 👋
 
 ## About Me
-I'm a Computer Engineering student passionate about Tech and Innovations. I like tostudy diiferent technologies and their real life application.
+I'm a Computer Engineering student passionate about Tech and Innovations. I like to study diiferent technologies and their real life application.
 
 ## Skills
 - C++
@@ -22,6 +22,8 @@ I'm a Computer Engineering student passionate about Tech and Innovations. I like
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/adarsh-dhangar-334886257)
 
+##Talks about
+Competative examination aftr bachelors like GATE,ISRO,DRDO......
 
 
 
