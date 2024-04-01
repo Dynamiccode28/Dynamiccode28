@@ -5,11 +5,13 @@ I'm a Computer Engineering student passionate about Tech and Innovations. I like
 
 ## Skills
 - C++
-- Java
+- Computer Organization and Architectures
+- Compiler Design
 - Computer Networks
 - Operating Systems
-- SQL
+- Databases,SQL
 - Data Structures
+- HTML5,CSS
 
 ## Projects
 
@@ -21,9 +23,9 @@ I'm a Computer Engineering student passionate about Tech and Innovations. I like
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/adarsh-dhangar-334886257)
+- [Email](adarshdhangar404@gmail.com)
 
-## Talks about
-- Competative examination after bachelors like GATE,ISRO,DRDO......
+
 
 
 
