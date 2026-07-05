@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently learning **Data Science & Engineering**
 
-- 💬 Ask me about **Computer Science Fundamentals, Operating System,Comouter Networks,Algorithms,Data Structures,Python**
 
 
 
